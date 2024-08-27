@@ -20,7 +20,7 @@ export default function TemplateDemo() {
 
     const imageBodyTemplate = (field) => (product) => {
         return (
-            <Image src={`/data-table//public/images/${product[field]}`} alt="Image" preview width="250px" className="shadow-2 border-round" />
+            <Image src={`/data-table/images/${product[field]}`} alt="Image" preview width="250px" className="shadow-2 border-round" />
         );
     };
 
@@ -61,7 +61,7 @@ export default function TemplateDemo() {
 
     return (
         <div className="card">
-            <DataTable value={products} header={header} tableStyle={{ minWidth: '60rem' }}>
+            <DataTable value={products} tableStyle={{ minWidth: '60rem' }}>
                 <Column field="constituency" header="Constituency"></Column>
                 <Column field="ps" header="Polling Station"></Column>
                 <Column header="Candidate Form 45" body={imageBodyTemplate('ps_form45')}></Column>
