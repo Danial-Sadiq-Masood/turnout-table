@@ -20,7 +20,7 @@ export default function TemplateDemo() {
 
     const imageBodyTemplate = (field) => (product) => {
         return (
-            <Image src={`/images/${product[field]}`} alt="Image" preview width="250px" className="shadow-2 border-round" />
+            <Image src={`/data-table//public/images/${product[field]}`} alt="Image" preview width="250px" className="shadow-2 border-round" />
         );
     };
 
