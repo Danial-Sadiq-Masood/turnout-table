@@ -1,0 +1,4332 @@
+[
+  {
+    "PS No": 1,
+    "Polling station name": "Govt Girls High School, Custom Colony Lahore CANTT (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 1198,
+    "Total Voters": 1198,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 2,
+    "Polling station name": "Govt Girls High School, Custom Colony Lahore CANTT (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1117,
+    "SUM of FemaleVoters": 1117
+  },
+  {
+    "PS No": 3,
+    "Polling station name": "Ali Garh College of Nursing Main Chowk Ali Colony Cavlary Ground Lahore Cantt: (Male)",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 2060,
+    "Total Voters": 2060,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 4,
+    "Polling station name": "Ali Garh College of Nursing Main Chowk Ali Colony Cavlary Ground Lahore Cantt: (Female)",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1799,
+    "SUM of FemaleVoters": 1799
+  },
+  {
+    "PS No": 5,
+    "Polling station name": "Govt. Primary School Luck Line, Cavalry Ground Lahore Cantt: (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 660,
+    "Total Voters": 1249,
+    "SUM of FemaleVoters": 589
+  },
+  {
+    "PS No": 6,
+    "Polling station name": "Govt Elementary School Boys Custom Academy Lahore Cantt: (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 966,
+    "Total Voters": 1957,
+    "SUM of FemaleVoters": 991
+  },
+  {
+    "PS No": 7,
+    "Polling station name": "Govt. Primary School Luck Line, Cavalry Ground Lahore Cantt: (Combined)-II",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 641,
+    "Total Voters": 1171,
+    "SUM of FemaleVoters": 530
+  },
+  {
+    "PS No": 8,
+    "Polling station name": "The Educators St. No.7 Officer Colony Walton Road Lahore Cantt Boys: (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 1306,
+    "Total Voters": 1306,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 9,
+    "Polling station name": "The Educators St. No.7 Officer Colony Walton Road Lahore Cantt Boys: (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1427,
+    "SUM of FemaleVoters": 1427
+  },
+  {
+    "PS No": 10,
+    "Polling station name": "The Educators St. No.7 Officer Colony Walton Road Lahore Cantt Boys: (Male)-II",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 1089,
+    "Total Voters": 1089,
+    "SUM of FemaleVoters": "-"
+  },
+  {
+    "PS No": 11,
+    "Polling station name": "The Educators St. No.7 Officer Colony Walton Road Lahore Cantt Boys: (Female)-II",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": "-",
+    "Total Voters": 1112,
+    "SUM of FemaleVoters": 1112
+  },
+  {
+    "PS No": 12,
+    "Polling station name": "The Educators St. No.7 Officer Colony Walton Road Lahore Cantt Boys: (Male)-III",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 1962,
+    "Total Voters": 1962,
+    "SUM of FemaleVoters": "-"
+  },
+  {
+    "PS No": 13,
+    "Polling station name": "The Educators St. No.7 Officer Colony Walton Road Lahore Cantt Boys: (Female)-III",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": "-",
+    "Total Voters": 1605,
+    "SUM of FemaleVoters": 1605
+  },
+  {
+    "PS No": 14,
+    "Polling station name": "Allied School Islam nagar Walton Road Walton Cantt. (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 524,
+    "Total Voters": 1042,
+    "SUM of FemaleVoters": 518
+  },
+  {
+    "PS No": 15,
+    "Polling station name": "Allied School Islam nagar Walton Road Walton Cantt. (Combined)-II",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 676,
+    "Total Voters": 1326,
+    "SUM of FemaleVoters": 650
+  },
+  {
+    "PS No": 16,
+    "Polling station name": "Allied School Islam nagar Walton Road Walton Cantt. (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 1262,
+    "Total Voters": 1262,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 17,
+    "Polling station name": "Allied School Islam nagar Walton Road Walton Cantt. (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1350,
+    "SUM of FemaleVoters": 1350
+  },
+  {
+    "PS No": 18,
+    "Polling station name": "Decent Public High School H.27/31 as Abu Bakar St. Ghousia St. Islam Nagar Walton Lahore Cantt: (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 1721,
+    "Total Voters": 1721,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 19,
+    "Polling station name": "Decent Public High School H.27/31 as Abu Bakar St. Ghousia St. Islam Nagar Walton Lahore Cantt: (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1748,
+    "SUM of FemaleVoters": 1748
+  },
+  {
+    "PS No": 20,
+    "Polling station name": "Iqra Roza Tul Itfal St.No.5-A, Madina Colony Rehmat Chowk Walton Road, Walton Cantt. (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 1379,
+    "Total Voters": 1379,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 21,
+    "Polling station name": "Iqra Roza Tul Itfal St.No.5-A, Madina Colony Rehmat Chowk Walton Road, Walton Cantt. (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1367,
+    "SUM of FemaleVoters": 1367
+  },
+  {
+    "PS No": 22,
+    "Polling station name": "Allied School Girls Walton Campus 26 26 Walton Road Walton Cantt Lahore (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Medina Colony / Cavalry",
+    "Charge Code": 18803,
+    "SUM of MaleVoters": 596,
+    "Total Voters": 1170,
+    "SUM of FemaleVoters": 574
+  },
+  {
+    "PS No": 23,
+    "Polling station name": "Concordia College Academy Road, Walton Cantt (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 859,
+    "Total Voters": 1501,
+    "SUM of FemaleVoters": 642
+  },
+  {
+    "PS No": 24,
+    "Polling station name": "Allied School Girls Walton Campus 26 26 Walton Road Walton Cantt Lahore (Combined)-II",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 1132,
+    "Total Voters": 1944,
+    "SUM of FemaleVoters": 812
+  },
+  {
+    "PS No": 25,
+    "Polling station name": "Concordia College Academy Road, Walton Cantt (Combined)-II",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 1028,
+    "Total Voters": 2376,
+    "SUM of FemaleVoters": 1348
+  },
+  {
+    "PS No": 26,
+    "Polling station name": "Concordia College Academy Road, Walton Cantt (Combined)-III",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 821,
+    "Total Voters": 1614,
+    "SUM of FemaleVoters": 793
+  },
+  {
+    "PS No": 27,
+    "Polling station name": "Concordia College Academy Road, Walton Cantt (Combined)-IV",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 663,
+    "Total Voters": 1228,
+    "SUM of FemaleVoters": 565
+  },
+  {
+    "PS No": 28,
+    "Polling station name": "Govt: High School for Boys Walton Road, Lahore Cantt Male: (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 1233,
+    "Total Voters": 2290,
+    "SUM of FemaleVoters": 1057
+  },
+  {
+    "PS No": 29,
+    "Polling station name": "Govt: High School for Boys Walton Road, Lahore Cantt Male: (Combined)-II",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 608,
+    "Total Voters": 1196,
+    "SUM of FemaleVoters": 588
+  },
+  {
+    "PS No": 30,
+    "Polling station name": "Govt: High School for Boys Walton Road, Lahore Cantt Male: (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 1802,
+    "Total Voters": 1802,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 31,
+    "Polling station name": "Govt: High School for Boys Walton Road, Lahore Cantt Male: (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1945,
+    "SUM of FemaleVoters": 1945
+  },
+  {
+    "PS No": 32,
+    "Polling station name": "Govt. Girls High School, Bab-e-Pakistan, Walton Road, Lahore Cantt (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 704,
+    "Total Voters": 1394,
+    "SUM of FemaleVoters": 690
+  },
+  {
+    "PS No": 33,
+    "Polling station name": "Govt. Khawaja Rafique Shaheed College Walton Road Lahore Cantt Male: (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 1227,
+    "Total Voters": 1227,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 34,
+    "Polling station name": "Govt. Khawaja Rafique Shaheed College Walton Road Lahore Cantt Male: (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1201,
+    "SUM of FemaleVoters": 1201
+  },
+  {
+    "PS No": 35,
+    "Polling station name": "Govt. Girls Elementary School Packages Quarters Walton Road Lahore Cantt: (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 921,
+    "Total Voters": 1798,
+    "SUM of FemaleVoters": 877
+  },
+  {
+    "PS No": 36,
+    "Polling station name": "Govt. Khawaja Rafique Shaheed College Walton Road Lahore Cantt Male: (Male)-II",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 1240,
+    "Total Voters": 1240,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 37,
+    "Polling station name": "Govt. Khawaja Rafique Shaheed College Walton Road Lahore Cantt Male: (Female)-II",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1090,
+    "SUM of FemaleVoters": 1090
+  },
+  {
+    "PS No": 38,
+    "Polling station name": "Govt. Girls Elementary School Packages Quarters Walton Road Lahore Cantt: (Combined)-II",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 549,
+    "Total Voters": 1049,
+    "SUM of FemaleVoters": 500
+  },
+  {
+    "PS No": 39,
+    "Polling station name": "Govt. Khawaja Rafique Shaheed College Walton Road Lahore Cantt Male: (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 1004,
+    "Total Voters": 1887,
+    "SUM of FemaleVoters": 883
+  },
+  {
+    "PS No": 40,
+    "Polling station name": "Govt. Khawaja Rafique Shaheed College Walton Road Lahore Cantt Male: (Combined)-II",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 412,
+    "Total Voters": 772,
+    "SUM of FemaleVoters": 360
+  },
+  {
+    "PS No": 41,
+    "Polling station name": "Govt Elementary School (Boys), CUSTOM ACADAMY Lahore CANTT (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 1440,
+    "Total Voters": 1440,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 42,
+    "Polling station name": "Govt Elementary School (Boys), CUSTOM ACADAMY Lahore CANTT (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1405,
+    "SUM of FemaleVoters": 1405
+  },
+  {
+    "PS No": 43,
+    "Polling station name": "Toppers Law College 27-L Gulberg-III Lahore (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 2008,
+    "Total Voters": 2008,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 44,
+    "Polling station name": "Toppers Law College 27-L Gulberg-III Lahore (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1589,
+    "SUM of FemaleVoters": 1589
+  },
+  {
+    "PS No": 45,
+    "Polling station name": "Toppers Law College 27-L Gulberg-III Lahore (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Walton Road",
+    "Charge Code": 18804,
+    "SUM of MaleVoters": 698,
+    "Total Voters": 1751,
+    "SUM of FemaleVoters": 1053
+  },
+  {
+    "PS No": 46,
+    "Polling station name": "HAJVERI HIGH SCHOOL FOR BOYS 150M GULBERG-III NEAR BHABRA MARKET FEROZEPUR ROAD, LAHORE Combined-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 1012,
+    "Total Voters": 1970,
+    "SUM of FemaleVoters": 958
+  },
+  {
+    "PS No": 47,
+    "Polling station name": "HAJVERI HIGH SCHOOL FOR BOYS 150M GULBERG-III NEAR BHABRA MARKET FEROZEPUR ROAD, LAHORE Male-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 1576,
+    "Total Voters": 1576,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 48,
+    "Polling station name": "HAJVERI HIGH SCHOOL FOR BOYS 150M GULBERG-III NEAR BHABRA MARKET FEROZEPUR ROAD, LAHORE Female-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1066,
+    "SUM of FemaleVoters": 1066
+  },
+  {
+    "PS No": 49,
+    "Polling station name": "Superior University, Main Campus Tipu Block, Ferozpur Road Near Suzuki Motors, Lahore. (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 418,
+    "Total Voters": 739,
+    "SUM of FemaleVoters": 321
+  },
+  {
+    "PS No": 50,
+    "Polling station name": "Ripha University, 28-M Block, Bhabra Lahore (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 1009,
+    "Total Voters": 1935,
+    "SUM of FemaleVoters": 926
+  },
+  {
+    "PS No": 51,
+    "Polling station name": "Ripha University, 28-M Block, Bhabra Lahore (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 2252,
+    "Total Voters": 2252,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 52,
+    "Polling station name": "Ripha University, 28-M Block, Bhabra Lahore (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2208,
+    "SUM of FemaleVoters": 2208
+  },
+  {
+    "PS No": 53,
+    "Polling station name": "Government Girls High School, Gopal Nagar Lahore (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 1870,
+    "Total Voters": 1870,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 54,
+    "Polling station name": "Government Girls High School, Gopal Nagar Lahore (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1789,
+    "SUM of FemaleVoters": 1789
+  },
+  {
+    "PS No": 55,
+    "Polling station name": "Government Girls High School, Gopal Nagar Lahore (Male)-II",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 1406,
+    "Total Voters": 1406,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 56,
+    "Polling station name": "Government Girls High School, Gopal Nagar Lahore (Female)-II",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1163,
+    "SUM of FemaleVoters": 1163
+  },
+  {
+    "PS No": 57,
+    "Polling station name": "Government Primary School Gulab Devi Lahore (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 651,
+    "Total Voters": 1192,
+    "SUM of FemaleVoters": 541
+  },
+  {
+    "PS No": 58,
+    "Polling station name": "SOS HERMAN MINOR SCHOOL FEROZPUR ROAD, LAHORE (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 1682,
+    "Total Voters": 1682,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 59,
+    "Polling station name": "SOS HERMAN MINOR SCHOOL FEROZPUR ROAD, LAHORE (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1493,
+    "SUM of FemaleVoters": 1493
+  },
+  {
+    "PS No": 60,
+    "Polling station name": "CDGL HIGH SCHOOL WALTON AIRPOT GOPAL NAGAR LAHORE (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1403,
+    "SUM of FemaleVoters": 1403
+  },
+  {
+    "PS No": 61,
+    "Polling station name": "CDGL HIGH SCHOOL WALTON AIRPOT GOPAL NAGAR LAHORE (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 1291,
+    "Total Voters": 1291,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 62,
+    "Polling station name": "CDGL HIGH SCHOOL WALTON AIRPOT GOPAL NAGAR LAHORE (Male)-II",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 1364,
+    "Total Voters": 1364,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 63,
+    "Polling station name": "CDGL HIGH SCHOOL WALTON AIRPOT GOPAL NAGAR LAHORE (Female)-II",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1246,
+    "SUM of FemaleVoters": 1246
+  },
+  {
+    "PS No": 64,
+    "Polling station name": "SOS HERMAN MINOR SCHOOL FEROZPUR ROAD, LAHORE (Combined)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 832,
+    "Total Voters": 1522,
+    "SUM of FemaleVoters": 690
+  },
+  {
+    "PS No": 65,
+    "Polling station name": "Government Primary School Gulab Devi Lahore (Male)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 1715,
+    "Total Voters": 1715,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 66,
+    "Polling station name": "Government Primary School Gulab Devi Lahore (Female)-I",
+    "PP Number": "PP-156",
+    "Area": "Gopal Nagar / Gulberg III",
+    "Charge Code": 25910,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1472,
+    "SUM of FemaleVoters": 1472
+  },
+  {
+    "PS No": 67,
+    "Polling station name": "The Spirit School System (Combined)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 569,
+    "Total Voters": 1099,
+    "SUM of FemaleVoters": 530
+  },
+  {
+    "PS No": 68,
+    "Polling station name": "GHOSHA ITFAAL GIRLS SCHOOL 73 ABU BAKAR BLOCK NEW GARDEN TOWN, LAHORE (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 1167,
+    "Total Voters": 1167,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 69,
+    "Polling station name": "GHOSHA ITFAAL GIRLS SCHOOL 73 ABU BAKAR BLOCK NEW GARDEN TOWN, LAHORE (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1166,
+    "SUM of FemaleVoters": 1166
+  },
+  {
+    "PS No": 70,
+    "Polling station name": "Government Boys High School (EXMCL) Jewan Hana Garden Town Lahore (Male)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 2141,
+    "Total Voters": 2141,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 71,
+    "Polling station name": "Government Boys High School (EXMCL) Jewan Hana Garden Town Lahore (Female)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2039,
+    "SUM of FemaleVoters": 2039
+  },
+  {
+    "PS No": 72,
+    "Polling station name": "Government Boys High School (EXMCL) Jewan Hana Garden Town Lahore (Female)-II",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1190,
+    "SUM of FemaleVoters": 1190
+  },
+  {
+    "PS No": 73,
+    "Polling station name": "Government Boys High School (EXMCL) Jewan Hana Garden Town Lahore (Male)-II",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 1192,
+    "Total Voters": 1192,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 74,
+    "Polling station name": "Government MODEL GIRLS HIGH SCHOOL BARKAT MARKET GARDEN TOWN, LAHORE (Combined)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 1154,
+    "Total Voters": 2198,
+    "SUM of FemaleVoters": 1044
+  },
+  {
+    "PS No": 75,
+    "Polling station name": "Government MODEL GIRLS HIGH SCHOOL BARKAT MARKET GARDEN TOWN, LAHORE (Male)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 2086,
+    "Total Voters": 2086,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 76,
+    "Polling station name": "Government MODEL GIRLS HIGH SCHOOL BARKAT MARKET GARDEN TOWN, LAHORE (Female)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1767,
+    "SUM of FemaleVoters": 1767
+  },
+  {
+    "PS No": 77,
+    "Polling station name": "Government MODEL GIRLS HIGH SCHOOL BARKAT MARKET GARDEN TOWN, LAHORE (Combined)-II",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 841,
+    "Total Voters": 1745,
+    "SUM of FemaleVoters": 904
+  },
+  {
+    "PS No": 78,
+    "Polling station name": "Government SHUHADA-E-APS MEMORIAL MODEL HIGH SCHOOL MODEL TOWN, LAHORE (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 1345,
+    "Total Voters": 1345,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 79,
+    "Polling station name": "Government SHUHADA-E-APS MEMORIAL MODEL HIGH SCHOOL MODEL TOWN, LAHORE (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1468,
+    "SUM of FemaleVoters": 1468
+  },
+  {
+    "PS No": 80,
+    "Polling station name": "Government SHUHADA-E-APS MEMORIAL MODEL HIGH SCHOOL MODEL TOWN, LAHORE (FEMALE)-II",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1551,
+    "SUM of FemaleVoters": 1551
+  },
+  {
+    "PS No": 81,
+    "Polling station name": "Government SHUHADA-E-APS MEMORIAL MODEL HIGH SCHOOL MODEL TOWN, LAHORE (MALE)-II",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 1573,
+    "Total Voters": 1573,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 82,
+    "Polling station name": "Government JUNIOR MODEL BOYS HIGH SCHOOL MODEL TOWN LAHORE NEAR PETROL PUMP (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 1723,
+    "Total Voters": 1723,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 83,
+    "Polling station name": "Government JUNIOR MODEL BOYS HIGH SCHOOL MODEL TOWN LAHORE NEAR PETROL PUMP (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1571,
+    "SUM of FemaleVoters": 1571
+  },
+  {
+    "PS No": 84,
+    "Polling station name": "Government Jr M/S opposite A-Block, Model Town, Lahore. (COMBINED)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 840,
+    "Total Voters": 1690,
+    "SUM of FemaleVoters": 850
+  },
+  {
+    "PS No": 85,
+    "Polling station name": "D.P.S (NURSERY WINGS) SCHOOL MODEL TOWN LAHORE (Combined)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 1185,
+    "Total Voters": 2442,
+    "SUM of FemaleVoters": 1257
+  },
+  {
+    "PS No": 86,
+    "Polling station name": "D.P.S (NURSERY WINGS) SCHOOL MODEL TOWN LAHORE (Male)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 1352,
+    "Total Voters": 1352,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 87,
+    "Polling station name": "D.P.S (NURSERY WINGS) SCHOOL MODEL TOWN LAHORE (Female)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1463,
+    "SUM of FemaleVoters": 1463
+  },
+  {
+    "PS No": 88,
+    "Polling station name": "Government SHUHADA-E-APS MEMORIAL GIRLS MODEL HIGH SCHOOL MODEL TOWN, LAHORE (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 1387,
+    "Total Voters": 1387,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 89,
+    "Polling station name": "Government SHUHADA-E-APS MEMORIAL GIRLS MODEL HIGH SCHOOL MODEL TOWN, LAHORE (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1344,
+    "SUM of FemaleVoters": 1344
+  },
+  {
+    "PS No": 90,
+    "Polling station name": "Government SHUHADA-E-APS MEMORIAL BOYS MODEL HIGH SCHOOL MODEL TOWN, LAHORE (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 1350,
+    "Total Voters": 1350,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 91,
+    "Polling station name": "Government SHUHADA-E-APS MEMORIAL BOYS MODEL HIGH SCHOOL MODEL TOWN, LAHORE (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1356,
+    "SUM of FemaleVoters": 1356
+  },
+  {
+    "PS No": 92,
+    "Polling station name": "Government SHUHADA-E-APS MEMORIAL BOYS MODEL HIGH SCHOOL MODEL TOWN, LAHORE (MALE)-II",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 958,
+    "Total Voters": 958,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 93,
+    "Polling station name": "Government SHUHADA-E-APS MEMORIAL BOYS MODEL HIGH SCHOOL MODEL TOWN, LAHORE (FEMALE)-II",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 956,
+    "SUM of FemaleVoters": 956
+  },
+  {
+    "PS No": 94,
+    "Polling station name": "Government APS MODEL HIGH SCHOOL GIRLS MODEL TOWN, LAHORE (COMBINED)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 654,
+    "Total Voters": 1319,
+    "SUM of FemaleVoters": 665
+  },
+  {
+    "PS No": 95,
+    "Polling station name": "Ideal Muslim Girls High School, E Block, Model Town (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 1772,
+    "Total Voters": 1772,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 96,
+    "Polling station name": "Ideal Muslim Girls High School, E Block, Model Town (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1877,
+    "SUM of FemaleVoters": 1877
+  },
+  {
+    "PS No": 97,
+    "Polling station name": "Government APWA GIRLS MIDDLE SCHOOL D-BLOCK MODEL TOWN LAHORE (Combined)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 892,
+    "Total Voters": 1801,
+    "SUM of FemaleVoters": 909
+  },
+  {
+    "PS No": 98,
+    "Polling station name": "Government APWA GIRLS MIDDLE SCHOOL D-BLOCK MODEL TOWN LAHORE (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 1821,
+    "Total Voters": 1821,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 99,
+    "Polling station name": "Government APWA GIRLS MIDDLE SCHOOL D-BLOCK MODEL TOWN LAHORE (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Model Town",
+    "Charge Code": 25909,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1748,
+    "SUM of FemaleVoters": 1748
+  },
+  {
+    "PS No": 100,
+    "Polling station name": "Government SPECIAL EDUCATION DEPARTMENT 31 SHER SHAH BLOCK NEW GARDEN TOWN LAHORE MALE-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 1252,
+    "Total Voters": 1252,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 101,
+    "Polling station name": "Government SPECIAL EDUCATION DEPARTMENT 31 SHER SHAH BLOCK NEW GARDEN TOWN LAHORE FEMALE-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1259,
+    "SUM of FemaleVoters": 1259
+  },
+  {
+    "PS No": 102,
+    "Polling station name": "Government SPECIAL EDUCATION DEPARTMENT 31 SHER SHAH BLOCK NEW GARDEN TOWN LAHORE MALE-II",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 1116,
+    "Total Voters": 1116,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 103,
+    "Polling station name": "Government SPECIAL EDUCATION DEPARTMENT 31 SHER SHAH BLOCK NEW GARDEN TOWN LAHORE FEMALE-II",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1182,
+    "SUM of FemaleVoters": 1182
+  },
+  {
+    "PS No": 104,
+    "Polling station name": "HAYAT-E-ISLAM KHAWATEEN COLLEGE 4-SHER SHAH BLOCK NEW GARDEN TOWN, LAHORE (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 1542,
+    "Total Voters": 1542,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 105,
+    "Polling station name": "HAYAT-E-ISLAM KHAWATEEN COLLEGE 4-SHER SHAH BLOCK NEW GARDEN TOWN, LAHORE (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1591,
+    "SUM of FemaleVoters": 1591
+  },
+  {
+    "PS No": 106,
+    "Polling station name": "HAYAT-E-ISLAM KHAWATEEN COLLEGE 4-SHER SHAH BLOCK NEW GARDEN TOWN, LAHORE (COMBINED)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 779,
+    "Total Voters": 1555,
+    "SUM of FemaleVoters": 776
+  },
+  {
+    "PS No": 107,
+    "Polling station name": "Government FD JUNIOR MODEL SCHOOL 45-A TIPU BLOCK, GARDEN TWON, LAHORE. (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 1537,
+    "Total Voters": 1537,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 108,
+    "Polling station name": "Government FD JUNIOR MODEL SCHOOL 45-A TIPU BLOCK, GARDEN TWON, LAHORE. (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Garden Town",
+    "Charge Code": 25922,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1549,
+    "SUM of FemaleVoters": 1549
+  },
+  {
+    "PS No": 109,
+    "Polling station name": "Government Girls High School 423 B- Block FAISAL TOWN, LAHORE. (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1224,
+    "Total Voters": 1224,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 110,
+    "Polling station name": "Government Girls High School 423 B- Block FAISAL TOWN, LAHORE. (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1468,
+    "SUM of FemaleVoters": 1468
+  },
+  {
+    "PS No": 111,
+    "Polling station name": "Government Girls High School 423 B- Block FAISAL TOWN, LAHORE. (MALE)-II",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1801,
+    "Total Voters": 1801,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 112,
+    "Polling station name": "Government Girls High School 423 B- Block FAISAL TOWN, LAHORE. (FEMALE)-II",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1817,
+    "SUM of FemaleVoters": 1817
+  },
+  {
+    "PS No": 113,
+    "Polling station name": "Government COLLEGE M BLOCK EXT MODEL TOWN LAHORE (Male)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1152,
+    "Total Voters": 1152,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 114,
+    "Polling station name": "Government COLLEGE M BLOCK EXT MODEL TOWN LAHORE (Female)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1083,
+    "SUM of FemaleVoters": 1083
+  },
+  {
+    "PS No": 115,
+    "Polling station name": "Government COLLEGE M BLOCK EXT MODEL TOWN LAHORE (Male)-II",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1791,
+    "Total Voters": 1791,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 116,
+    "Polling station name": "Government COLLEGE M BLOCK EXT MODEL TOWN LAHORE (Female)-II",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1952,
+    "SUM of FemaleVoters": 1952
+  },
+  {
+    "PS No": 117,
+    "Polling station name": "Government APWA School, D-Block, Model Town, Lahore  (Male)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1036,
+    "Total Voters": 1036,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 118,
+    "Polling station name": "Government APWA School, D-Block, Model Town, Lahore  (Female)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 976,
+    "SUM of FemaleVoters": 976
+  },
+  {
+    "PS No": 119,
+    "Polling station name": "JOHAR FOUNDATION HS B-Block Faisal Town NEAR CUNDAN CNG, LAHORE. (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1978,
+    "Total Voters": 1978,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 120,
+    "Polling station name": "JOHAR FOUNDATION HS B-Block Faisal Town NEAR CUNDAN CNG, LAHORE. (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1738,
+    "SUM of FemaleVoters": 1738
+  },
+  {
+    "PS No": 121,
+    "Polling station name": "CATHEDRAL SCHOOL MAIN ROAD FAISAL TOWN, LAHORE. (COMBINED)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 922,
+    "Total Voters": 1717,
+    "SUM of FemaleVoters": 795
+  },
+  {
+    "PS No": 122,
+    "Polling station name": "CATHEDRAL SCHOOL MAIN ROAD FAISAL TOWN, LAHORE. (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1645,
+    "Total Voters": 1645,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 123,
+    "Polling station name": "CATHEDRAL SCHOOL MAIN ROAD FAISAL TOWN, LAHORE. (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1731,
+    "SUM of FemaleVoters": 1731
+  },
+  {
+    "PS No": 124,
+    "Polling station name": "Lahore Grammar School, 373-A, Block-C, Faisal Town Lahore (Male)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1352,
+    "Total Voters": 1352,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 125,
+    "Polling station name": "Lahore Grammar School, 373-A, Block-C, Faisal Town Lahore (Female)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1337,
+    "SUM of FemaleVoters": 1337
+  },
+  {
+    "PS No": 126,
+    "Polling station name": "Lahore Grammar School, 373-A, Block-C, Faisal Town Lahore (Combined)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 765,
+    "Total Voters": 1576,
+    "SUM of FemaleVoters": 811
+  },
+  {
+    "PS No": 127,
+    "Polling station name": "CATHEDRAL SCHOOL MAIN ROAD FAISAL TOWN, LAHORE (COMBINED)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 631,
+    "Total Voters": 1408,
+    "SUM of FemaleVoters": 777
+  },
+  {
+    "PS No": 128,
+    "Polling station name": "CATHEDRAL SCHOOL MAIN ROAD FAISAL TOWN, LAHORE (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1798,
+    "Total Voters": 1798,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 129,
+    "Polling station name": "CATHEDRAL SCHOOL MAIN ROAD FAISAL TOWN, LAHORE (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1849,
+    "SUM of FemaleVoters": 1849
+  },
+  {
+    "PS No": 130,
+    "Polling station name": "Government COLLEGE M BLOCK EXT MODEL TOWN LAHORE (COMBINED)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 998,
+    "Total Voters": 2027,
+    "SUM of FemaleVoters": 1029
+  },
+  {
+    "PS No": 131,
+    "Polling station name": "Government COLLEGE M BLOCK EXT MODEL TOWN LAHORE (MALE)-II",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1526,
+    "Total Voters": 1526,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 132,
+    "Polling station name": "Government COLLEGE M BLOCK EXT MODEL TOWN LAHORE (FEMALE)-II",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1654,
+    "SUM of FemaleVoters": 1654
+  },
+  {
+    "PS No": 133,
+    "Polling station name": "U.E.T. INSTITUTE OF PROFESSIONAL DEVELOPMENT 6-P BLOCK MODEL TOWN, LAHORE. (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1378,
+    "Total Voters": 1378,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 134,
+    "Polling station name": "U.E.T. INSTITUTE OF PROFESSIONAL DEVELOPMENT 6-P BLOCK MODEL TOWN, LAHORE. (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1202,
+    "SUM of FemaleVoters": 1202
+  },
+  {
+    "PS No": 135,
+    "Polling station name": "Government Girls Primary School, Muhammad Pura, Munshi Pura, Faisal Town, Lahore. (MALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 1846,
+    "Total Voters": 1846,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 136,
+    "Polling station name": "Government Girls Primary School, Muhammad Pura, Munshi Pura, Faisal Town, Lahore. (FEMALE)-I",
+    "PP Number": "PP-161",
+    "Area": "Faisal Town",
+    "Charge Code": 25923,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2075,
+    "SUM of FemaleVoters": 2075
+  },
+  {
+    "PS No": 137,
+    "Polling station name": "The Smart School 17-B/A windsor park Ichra Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1500,
+    "Total Voters": 1500,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 138,
+    "Polling station name": "The Smart School 17-B/A windsor park Ichra Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1255,
+    "SUM of FemaleVoters": 1255
+  },
+  {
+    "PS No": 139,
+    "Polling station name": "The Smart School 17-B/A windsor park Ichra Lahore (Male)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1959,
+    "Total Voters": 1959,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 140,
+    "Polling station name": "The Smart School 17-B/A windsor park Ichra Lahore (Female)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1800,
+    "SUM of FemaleVoters": 1800
+  },
+  {
+    "PS No": 141,
+    "Polling station name": "EFA School Ichra Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1850,
+    "SUM of FemaleVoters": 1850
+  },
+  {
+    "PS No": 142,
+    "Polling station name": "EFA School Ichra Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1885,
+    "Total Voters": 1885,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 143,
+    "Polling station name": "Government N.D Islamia High School Ichhra lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1812,
+    "Total Voters": 1812,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 144,
+    "Polling station name": "Government N.D Islamia High School Ichhra lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1812,
+    "SUM of FemaleVoters": 1812
+  },
+  {
+    "PS No": 145,
+    "Polling station name": "Government N.D Islamia High School Feorzpur Road, Icchra, Lahore (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 439,
+    "Total Voters": 854,
+    "SUM of FemaleVoters": 415
+  },
+  {
+    "PS No": 146,
+    "Polling station name": "Government N.D Islamia High School Feorzpur Road, Icchra, Lahore (FEMALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1334,
+    "SUM of FemaleVoters": 1334
+  },
+  {
+    "PS No": 147,
+    "Polling station name": "Government N.D Islamia High School Feorzpur Road, Icchra, Lahore (MALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1617,
+    "Total Voters": 1617,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 148,
+    "Polling station name": "Kanz Ul Iman Beacon School Peer Ghazi Road Ichra (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 646,
+    "Total Voters": 1219,
+    "SUM of FemaleVoters": 573
+  },
+  {
+    "PS No": 149,
+    "Polling station name": "Standard Model School Per Ghazi Road, Icchra, Lahore (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 794,
+    "SUM of FemaleVoters": 794
+  },
+  {
+    "PS No": 150,
+    "Polling station name": "Standard Model School Per Ghazi Road, Icchra, Lahore (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 855,
+    "Total Voters": 855,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 151,
+    "Polling station name": "Standard Model School Per Ghazi Road, Icchra, Lahore (FEMALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1216,
+    "SUM of FemaleVoters": 1216
+  },
+  {
+    "PS No": 152,
+    "Polling station name": "Standard Model School Per Ghazi Road, Icchra, Lahore (MALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1422,
+    "Total Voters": 1422,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 153,
+    "Polling station name": "Government Girls High School, Sultan Ahmad Road, Ichhra, Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1658,
+    "Total Voters": 1658,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 154,
+    "Polling station name": "Government Girls High School, Sultan Ahmad Road, Ichhra, Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1575,
+    "SUM of FemaleVoters": 1575
+  },
+  {
+    "PS No": 155,
+    "Polling station name": "Native School Ahmad Munir Shaheed Road Ichra Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1445,
+    "Total Voters": 1445,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 156,
+    "Polling station name": "Native School Ahmad Munir Shaheed Road Ichra Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1202,
+    "SUM of FemaleVoters": 1202
+  },
+  {
+    "PS No": 157,
+    "Polling station name": "Government Girls High School Sultan Ahmad Road, Icchra, Lahore (Commbined)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 790,
+    "Total Voters": 1584,
+    "SUM of FemaleVoters": 794
+  },
+  {
+    "PS No": 158,
+    "Polling station name": "Government Girls High School Sultan Ahmad Road, Icchra, Lahore (MALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1792,
+    "Total Voters": 1792,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 159,
+    "Polling station name": "Government Girls High School Sultan Ahmad Road, Icchra, Lahore (FEMALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1728,
+    "SUM of FemaleVoters": 1728
+  },
+  {
+    "PS No": 160,
+    "Polling station name": "Unique School, Siddiqi Building, Rehmanpura (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1904,
+    "Total Voters": 1904,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 161,
+    "Polling station name": "Unique School, Siddiqi Building, Rehmanpura (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1677,
+    "SUM of FemaleVoters": 1677
+  },
+  {
+    "PS No": 162,
+    "Polling station name": "Unique School, Siddiqi Building, Rehmanpura (MALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1978,
+    "Total Voters": 1978,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 163,
+    "Polling station name": "Unique School, Siddiqi Building, Rehmanpura (FEMALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2043,
+    "SUM of FemaleVoters": 2043
+  },
+  {
+    "PS No": 164,
+    "Polling station name": "Ali Scholar School (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1166,
+    "Total Voters": 2102,
+    "SUM of FemaleVoters": 936
+  },
+  {
+    "PS No": 165,
+    "Polling station name": "Ali Scholar School (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1786,
+    "Total Voters": 1786,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 166,
+    "Polling station name": "Ali Scholar School (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1691,
+    "SUM of FemaleVoters": 1691
+  },
+  {
+    "PS No": 167,
+    "Polling station name": "Government Pilot Secondary School, for Girl Wadat Colony, Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 978,
+    "Total Voters": 978,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 168,
+    "Polling station name": "Government Pilot Secondary School, for Girl Wadat Colony, Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1054,
+    "SUM of FemaleVoters": 1054
+  },
+  {
+    "PS No": 169,
+    "Polling station name": "CDGL GIRLS MIDDLE SCHOOL SHAH KAMAL (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 1564,
+    "Total Voters": 1564,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 170,
+    "Polling station name": "CDGL GIRLS MIDDLE SCHOOL SHAH KAMAL (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1219,
+    "SUM of FemaleVoters": 1219
+  },
+  {
+    "PS No": 171,
+    "Polling station name": "CDGL GIRLS MIDDLE SCHOOL SHAH KAMAL (MALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 1847,
+    "Total Voters": 1847,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 172,
+    "Polling station name": "CDGL GIRLS MIDDLE SCHOOL SHAH KAMAL (FEMALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1754,
+    "SUM of FemaleVoters": 1754
+  },
+  {
+    "PS No": 173,
+    "Polling station name": "Big Ben City High School Ashiq Chowk (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 1014,
+    "Total Voters": 2020,
+    "SUM of FemaleVoters": 1006
+  },
+  {
+    "PS No": 174,
+    "Polling station name": "ALMUNAWAR PUBLIC HIGH SCHOOL, LALA ZAR CAMPUS, LALAZAR COLONY, AWAIS KERNI ROAD. (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 714,
+    "Total Voters": 1282,
+    "SUM of FemaleVoters": 568
+  },
+  {
+    "PS No": 175,
+    "Polling station name": "PUNJAB EXAMINATION COMMISSION EDUCATION DEPARTMENT NEAR PILOT HIGH SCHOOL WAHDAT ROAD, LAHORE (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 1466,
+    "Total Voters": 1466,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 176,
+    "Polling station name": "PUNJAB EXAMINATION COMMISSION EDUCATION DEPARTMENT NEAR PILOT HIGH SCHOOL WAHDAT ROAD, LAHORE (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1430,
+    "SUM of FemaleVoters": 1430
+  },
+  {
+    "PS No": 177,
+    "Polling station name": "Government Girls Elementary Ex M.C.L Model School Neelam Block Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 2157,
+    "Total Voters": 2157,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 178,
+    "Polling station name": "Government Girls Elementary Ex M.C.L Model School Neelam Block Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2024,
+    "SUM of FemaleVoters": 2024
+  },
+  {
+    "PS No": 179,
+    "Polling station name": "Government Pilot Secondary School For Girls Wahdat Colony Lahore (MALE)-IV",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 1618,
+    "Total Voters": 1618,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 180,
+    "Polling station name": "Government Pilot Secondary School For Girls Wahdat Colony Lahore (FEMALE)-IV",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1663,
+    "SUM of FemaleVoters": 1663
+  },
+  {
+    "PS No": 181,
+    "Polling station name": "Government Pilot Secondary School For Girls Wahdat Colony Lahore (MALE)-V",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 1665,
+    "Total Voters": 1665,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 182,
+    "Polling station name": "Government Pilot Secondary School For Girls Wahdat Colony Lahore (FEMALE)-V",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1679,
+    "SUM of FemaleVoters": 1679
+  },
+  {
+    "PS No": 183,
+    "Polling station name": "PUNJAB CURRICULAM AUTHORITY WAHDAT ROAD, LAHORE. (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 1015,
+    "Total Voters": 1930,
+    "SUM of FemaleVoters": 915
+  },
+  {
+    "PS No": 184,
+    "Polling station name": "GOVT. SECONDARY INSTITUTE FOR BLIND GIRLS, 128-A KHYBER BLOCK ALLAMA IQBAL TOWN. (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2189,
+    "SUM of FemaleVoters": 2189
+  },
+  {
+    "PS No": 185,
+    "Polling station name": "GOVT. SECONDARY INSTITUTE FOR BLIND GIRLS, 128-A KHYBER BLOCK ALLAMA IQBAL TOWN. (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 1934,
+    "Total Voters": 1934,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 186,
+    "Polling station name": "Big Ben City High School Ashiq Chowk (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 1156,
+    "Total Voters": 1156,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 187,
+    "Polling station name": "Big Ben City High School Ashiq Chowk (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1219,
+    "SUM of FemaleVoters": 1219
+  },
+  {
+    "PS No": 188,
+    "Polling station name": "Government Pilot Secondary School, for Girl Wadat Colony, Lahore (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 569,
+    "Total Voters": 1028,
+    "SUM of FemaleVoters": 459
+  },
+  {
+    "PS No": 189,
+    "Polling station name": "Government Pilot Secondary School, for Girl Wadat Colony, Lahore (Combined)-II",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 987,
+    "Total Voters": 1806,
+    "SUM of FemaleVoters": 819
+  },
+  {
+    "PS No": 190,
+    "Polling station name": "Office of Union Council No. 217 Clifton Colony, Shah Kamal (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25931,
+    "SUM of MaleVoters": 801,
+    "Total Voters": 1627,
+    "SUM of FemaleVoters": 826
+  },
+  {
+    "PS No": 191,
+    "Polling station name": "Government Pilot Secondary School, for Girl Wadat Colony, Lahore (Combined)-III",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 846,
+    "Total Voters": 1870,
+    "SUM of FemaleVoters": 1024
+  },
+  {
+    "PS No": 192,
+    "Polling station name": "Government POSTGRADUATE COLLEGE FOR WOMEN WAHDAT COLONY, LAHORE. (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 2113,
+    "Total Voters": 2113,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 193,
+    "Polling station name": "Government POSTGRADUATE COLLEGE FOR WOMEN WAHDAT COLONY, LAHORE. (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1983,
+    "SUM of FemaleVoters": 1983
+  },
+  {
+    "PS No": 194,
+    "Polling station name": "Government GIRLS PILOT HIGH SCHOOL WAHDAT ROAD, LAHORE. (COMBINED)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 611,
+    "Total Voters": 1170,
+    "SUM of FemaleVoters": 559
+  },
+  {
+    "PS No": 195,
+    "Polling station name": "Government Pakistan Model High School Rehmanpura, Lahore (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 2185,
+    "Total Voters": 2185,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 196,
+    "Polling station name": "Government Pakistan Model High School Rehmanpura, Lahore (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2007,
+    "SUM of FemaleVoters": 2007
+  },
+  {
+    "PS No": 197,
+    "Polling station name": "CDG Girls High School Siddique Akbar Road Link Sultan Road Icchar, Lahore. (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1770,
+    "SUM of FemaleVoters": 1770
+  },
+  {
+    "PS No": 198,
+    "Polling station name": "CDG Girls High School Siddique Akbar Road Link Sultan Road Icchar, Lahore. (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 1732,
+    "Total Voters": 1732,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 199,
+    "Polling station name": "CDG Girls High School Siddique Akbar Road Link Sultan Road Icchar, Lahore. (COMBINED)-I",
+    "PP Number": "PP-169",
+    "Area": "Ichra",
+    "Charge Code": 25933,
+    "SUM of MaleVoters": 430,
+    "Total Voters": 783,
+    "SUM of FemaleVoters": 353
+  },
+  {
+    "PS No": 200,
+    "Polling station name": "Government Central Model Girls High School near CGE Colony, Wahdat Road (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 965,
+    "Total Voters": 1910,
+    "SUM of FemaleVoters": 945
+  },
+  {
+    "PS No": 201,
+    "Polling station name": "Government Central Model Girls High School near CGE Colony, Wahdat Road (Male)-II",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 1644,
+    "Total Voters": 1644,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 202,
+    "Polling station name": "Government Central Model Girls High School near CGE Colony, Wahdat Road (Female)-II",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1691,
+    "SUM of FemaleVoters": 1691
+  },
+  {
+    "PS No": 203,
+    "Polling station name": "Government Central Model Girls High School near CGE Colony, Wahdat Road (Combined)-II",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 794,
+    "Total Voters": 1546,
+    "SUM of FemaleVoters": 752
+  },
+  {
+    "PS No": 204,
+    "Polling station name": "Punjab Food Authority Block-C, Muslim Town, Lahore (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 630,
+    "Total Voters": 1088,
+    "SUM of FemaleVoters": 458
+  },
+  {
+    "PS No": 205,
+    "Polling station name": "Punjab Food Authority Block-C, Muslim Town, Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 1303,
+    "Total Voters": 1303,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 206,
+    "Polling station name": "Punjab Food Authority Block-C, Muslim Town, Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1276,
+    "SUM of FemaleVoters": 1276
+  },
+  {
+    "PS No": 207,
+    "Polling station name": "Unique College 109A New Muslim Town (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 1567,
+    "Total Voters": 1567,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 208,
+    "Polling station name": "Unique College 109A New Muslim Town (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1311,
+    "SUM of FemaleVoters": 1311
+  },
+  {
+    "PS No": 209,
+    "Polling station name": "Government College of Commerce, Hunza Block Allama Block Town, Lahore (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 821,
+    "Total Voters": 1907,
+    "SUM of FemaleVoters": 1086
+  },
+  {
+    "PS No": 210,
+    "Polling station name": "Government SCIENCE COLLEGE WAHDAT ROAD, LAHORE. (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 1054,
+    "Total Voters": 2141,
+    "SUM of FemaleVoters": 1087
+  },
+  {
+    "PS No": 211,
+    "Polling station name": "Standard Grammar higher secondary school karim block Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 2266,
+    "Total Voters": 2266,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 212,
+    "Polling station name": "Standard grammar higher secondary school karim block Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2105,
+    "SUM of FemaleVoters": 2105
+  },
+  {
+    "PS No": 213,
+    "Polling station name": "Standard Grammar higher secondary school karim block Lahore (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 430,
+    "Total Voters": 844,
+    "SUM of FemaleVoters": 414
+  },
+  {
+    "PS No": 214,
+    "Polling station name": "Standard grammar higher secondary school karim block Lahore (Male)-II",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 1466,
+    "Total Voters": 1466,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 215,
+    "Polling station name": "Standard grammar higher secondary school karim block Lahore (Female)-II",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1545,
+    "SUM of FemaleVoters": 1545
+  },
+  {
+    "PS No": 216,
+    "Polling station name": "CDG HIGH SCHOOL NEAR FILTER HOSPITAL WAHDAT COLONY, LAHORE. (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 1586,
+    "Total Voters": 1586,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 217,
+    "Polling station name": "CDG HIGH SCHOOL NEAR FILTER HOSPITAL WAHDAT COLONY, LAHORE. (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Wahdat Colony / Muslim Town",
+    "Charge Code": 25929,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1392,
+    "SUM of FemaleVoters": 1392
+  },
+  {
+    "PS No": 218,
+    "Polling station name": "DIRECTORATE STAFF DEVELOPMENT PAK BLOCK (New Name Quaid e Azam Academy for educational development) (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1811,
+    "SUM of FemaleVoters": 1811
+  },
+  {
+    "PS No": 219,
+    "Polling station name": "DIRECTORATE STAFF DEVELOPMENT PAK BLOCK (New Name Quaid e Azam Academy for educational development) (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 1802,
+    "Total Voters": 1802,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 220,
+    "Polling station name": "Government COLLEGE OF TECHNOLOGY (PRINTING & GRAPHIC ARTS) ALLAMA IQBAL TOWN, LAHORE. (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 1251,
+    "Total Voters": 1251,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 221,
+    "Polling station name": "Government COLLEGE OF TECHNOLOGY (PRINTING & GRAPHIC ARTS) ALLAMA IQBAL TOWN, LAHORE. (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1170,
+    "SUM of FemaleVoters": 1170
+  },
+  {
+    "PS No": 222,
+    "Polling station name": "Pak Polytechnic Institute 32-Civic Centre, Satluj Block, Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1046,
+    "SUM of FemaleVoters": 1046
+  },
+  {
+    "PS No": 223,
+    "Polling station name": "Pak Polytechnic Institute 32-Civic Centre, Satluj Block, Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25930,
+    "SUM of MaleVoters": 1176,
+    "Total Voters": 1176,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 224,
+    "Polling station name": "Pak Polytechnic Institute 32-Civic Centre, Satluj Block, Lahore (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 784,
+    "Total Voters": 1638,
+    "SUM of FemaleVoters": 854
+  },
+  {
+    "PS No": 225,
+    "Polling station name": "Government Girls Elementary School, Nargis Block-AIT (EX MCL) Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 854,
+    "Total Voters": 854,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 226,
+    "Polling station name": "Government Girls Elementary School, Nargis Block-AIT (EX MCL) Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 955,
+    "SUM of FemaleVoters": 955
+  },
+  {
+    "PS No": 227,
+    "Polling station name": "WAPDA GIRLS HIGH SCHOOL 63-RACHNA BLOCK ALLAMA IQBAL TOWN, LAHORE. (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 1767,
+    "Total Voters": 1767,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 228,
+    "Polling station name": "WAPDA GIRLS HIGH SCHOOL 63-RACHNA BLOCK ALLAMA IQBAL TOWN, LAHORE. (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1639,
+    "SUM of FemaleVoters": 1639
+  },
+  {
+    "PS No": 229,
+    "Polling station name": "WAPDA GIRLS HIGH SCHOOL 63-RACHNA BLOCK ALLAMA IQBAL TOWN, LAHORE. (MALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 1827,
+    "Total Voters": 1827,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 230,
+    "Polling station name": "WAPDA GIRLS HIGH SCHOOL 63-RACHNA BLOCK ALLAMA IQBAL TOWN, LAHORE. (FEMALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1762,
+    "SUM of FemaleVoters": 1762
+  },
+  {
+    "PS No": 231,
+    "Polling station name": "Government Girls Elementary School, Nargis Block-AIT (EX MCL) Lahore (Male)-II",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 1043,
+    "Total Voters": 1043,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 232,
+    "Polling station name": "Government Girls Elementary School, Nargis Block-AIT (EX MCL) Lahore (Female)-II",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1376,
+    "SUM of FemaleVoters": 1376
+  },
+  {
+    "PS No": 233,
+    "Polling station name": "CDGL GIRLS MIDDLE MODEL SCHOOL NARGAS BLOCK LAHORE. (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1309,
+    "SUM of FemaleVoters": 1309
+  },
+  {
+    "PS No": 234,
+    "Polling station name": "CDGL GIRLS MIDDLE MODEL SCHOOL NARGAS BLOCK LAHORE. (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 1461,
+    "Total Voters": 1461,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 235,
+    "Polling station name": "CDG Middle High School, Huma Block, Allama Iqbal Town, Lahore. (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 1919,
+    "Total Voters": 1919,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 236,
+    "Polling station name": "CDG Middle High School, Huma Block, Allama Iqbal Town, Lahore. (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1875,
+    "SUM of FemaleVoters": 1875
+  },
+  {
+    "PS No": 237,
+    "Polling station name": "Government COLLEGE OF TECHNOLOGY (PRINTING & GRAPHIC ARTS) ALLAMA IQBAL TOWN, LAHORE. (MALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 1722,
+    "Total Voters": 1722,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 238,
+    "Polling station name": "Government COLLEGE OF TECHNOLOGY (PRINTING & GRAPHIC ARTS) ALLAMA IQBAL TOWN, LAHORE. (FEMALE)-II",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1778,
+    "SUM of FemaleVoters": 1778
+  },
+  {
+    "PS No": 239,
+    "Polling station name": "Government Islamia Graduate College 1-Ravi Block I/T Lahore (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 411,
+    "Total Voters": 834,
+    "SUM of FemaleVoters": 423
+  },
+  {
+    "PS No": 240,
+    "Polling station name": "Government Gradutate College of Science, Wahdat Road, Lahore (Combined)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 724,
+    "Total Voters": 1313,
+    "SUM of FemaleVoters": 589
+  },
+  {
+    "PS No": 241,
+    "Polling station name": "Government Gradutate College of Science, Wahdat Road, Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 2125,
+    "Total Voters": 2125,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 242,
+    "Polling station name": "Government Gradutate College of Science, Wahdat Road, Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1940,
+    "SUM of FemaleVoters": 1940
+  },
+  {
+    "PS No": 243,
+    "Polling station name": "Government SCIENCE COLLEGE WAHDAT ROAD, LAHORE. (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 2096,
+    "Total Voters": 2096,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 244,
+    "Polling station name": "Government SCIENCE COLLEGE WAHDAT ROAD, LAHORE. (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1823,
+    "SUM of FemaleVoters": 1823
+  },
+  {
+    "PS No": 245,
+    "Polling station name": "Government ISLAMIA COLLEAGE OF COMMERCE RAVI BLOCK IQBAL TOWN LAHORE. (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 1404,
+    "Total Voters": 1404,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 246,
+    "Polling station name": "Government ISLAMIA COLLEGE OF COMMERCE RAVI BLOCK IQBAL TOWN LAHORE. (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1341,
+    "SUM of FemaleVoters": 1341
+  },
+  {
+    "PS No": 247,
+    "Polling station name": "Government ISLAMIA COLLEAGE OF COMMERCE RAVI BLOCK IQBAL TOWN LAHORE. (Combined)-II",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25926,
+    "SUM of MaleVoters": 973,
+    "Total Voters": 1970,
+    "SUM of FemaleVoters": 997
+  },
+  {
+    "PS No": 248,
+    "Polling station name": "Standard grammar higher secondary school karim block Lahore (Male)-III",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 1615,
+    "Total Voters": 1615,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 249,
+    "Polling station name": "Standard grammar higher secondary school karim block Lahore (Female)-III",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1465,
+    "SUM of FemaleVoters": 1465
+  },
+  {
+    "PS No": 250,
+    "Polling station name": "Government Girls Secondary School, Umer Block Allama Iqbal Town, Lahore (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 1278,
+    "Total Voters": 1278,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 251,
+    "Polling station name": "Government Girls Secondary School, Umer Block Allama Iqbal Town, Lahore (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1302,
+    "SUM of FemaleVoters": 1302
+  },
+  {
+    "PS No": 252,
+    "Polling station name": "Government Girls Secondary School, Umer Block Allama Iqbal Town, Lahore (COMBINED)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 990,
+    "Total Voters": 1937,
+    "SUM of FemaleVoters": 947
+  },
+  {
+    "PS No": 253,
+    "Polling station name": "Government GIRLS HIGHER SECONDARY SCHOOL UMAR BLOCK LAHORE. (MALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 1201,
+    "Total Voters": 1201,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 254,
+    "Polling station name": "Government GIRLS HIGHER SECONDARY SCHOOL UMAR BLOCK LAHORE. (FEMALE)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1191,
+    "SUM of FemaleVoters": 1191
+  },
+  {
+    "PS No": 255,
+    "Polling station name": "Citizen Community Center, Raza Block, Allama Iqbal Town, Lahore. (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 2302,
+    "Total Voters": 2302,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 256,
+    "Polling station name": "Citizen Community Center, Raza Block, Allama Iqbal Town, Lahore. (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1811,
+    "SUM of FemaleVoters": 1811
+  },
+  {
+    "PS No": 257,
+    "Polling station name": "Allama Iqbal Open Univeristy RAZA BLOCK (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 1848,
+    "Total Voters": 1848,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 258,
+    "Polling station name": "Allama Iqbal Open Univeristy RAZA BLOCK (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1831,
+    "SUM of FemaleVoters": 1831
+  },
+  {
+    "PS No": 259,
+    "Polling station name": "Allama Iqbal Open Univeristy RAZA BLOCK (Male)-II",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 1851,
+    "Total Voters": 1851,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 260,
+    "Polling station name": "Allama Iqbal Open Univeristy RAZA BLOCK (Female)-II",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1854,
+    "SUM of FemaleVoters": 1854
+  },
+  {
+    "PS No": 261,
+    "Polling station name": "Punjab University Model High School Residntial Colony Quaid-E-Azam Campus Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 1463,
+    "Total Voters": 1463,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 262,
+    "Polling station name": "Punjab University Model High School Residntial Colony Quaid-E-Azam Campus Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25927,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1313,
+    "SUM of FemaleVoters": 1313
+  },
+  {
+    "PS No": 263,
+    "Polling station name": "SHEIKH ZAYED ISLAMIC CENTER, Punjab University Lahore (Male)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 1591,
+    "Total Voters": 1591,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 264,
+    "Polling station name": "SHEIKH ZAYED ISLAMIC CENTER, Punjab University Lahore (Female)-I",
+    "PP Number": "PP-169",
+    "Area": "Allama Iqbal Town",
+    "Charge Code": 25928,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1390,
+    "SUM of FemaleVoters": 1390
+  },
+  {
+    "PS No": 265,
+    "Polling station name": "Stepping Stones School 14-A Shahjamal (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1691,
+    "Total Voters": 1691,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 266,
+    "Polling station name": "Stepping Stones School 14-A Shahjamal (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1689,
+    "SUM of FemaleVoters": 1689
+  },
+  {
+    "PS No": 267,
+    "Polling station name": "Government Primary School Services Hospital (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1521,
+    "Total Voters": 1521,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 268,
+    "Polling station name": "Government Primary School Services Hospital (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1495,
+    "SUM of FemaleVoters": 1495
+  },
+  {
+    "PS No": 269,
+    "Polling station name": "Crescent Model Higher Secondary School Boys Campus Shadman-1 (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1847,
+    "Total Voters": 1847,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 270,
+    "Polling station name": "Crescent Model Higher Secondary School Boys Campus Shadman-1 (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1790,
+    "SUM of FemaleVoters": 1790
+  },
+  {
+    "PS No": 271,
+    "Polling station name": "Dispensary GOR-III Lahore (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1143,
+    "Total Voters": 2076,
+    "SUM of FemaleVoters": 933
+  },
+  {
+    "PS No": 272,
+    "Polling station name": "HQ School System 26, Shah Jamal Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1164,
+    "Total Voters": 1164,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 273,
+    "Polling station name": "HQ School System 26, Shah Jamal Lahore (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1114,
+    "SUM of FemaleVoters": 1114
+  },
+  {
+    "PS No": 274,
+    "Polling station name": "Crescent Model Higher Secondary School Boys Campus Shadman-1 (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 934,
+    "Total Voters": 1815,
+    "SUM of FemaleVoters": 881
+  },
+  {
+    "PS No": 275,
+    "Polling station name": "HQ School System 26, Shah Jamal Lahore (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 829,
+    "Total Voters": 1577,
+    "SUM of FemaleVoters": 748
+  },
+  {
+    "PS No": 276,
+    "Polling station name": "Government Girls Middle School Guru Nanak Ichhra Lahore. (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1843,
+    "Total Voters": 1843,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 277,
+    "Polling station name": "Government Girls Middle School Guru Nanak Ichhra Lahore. (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1689,
+    "SUM of FemaleVoters": 1689
+  },
+  {
+    "PS No": 278,
+    "Polling station name": "Government Girls Primary School Guru Nanak Ichhra Lahore. (Male)-II",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1165,
+    "Total Voters": 1165,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 279,
+    "Polling station name": "Government Girls Primary School Guru Nanak Ichhra Lahore. (Female)-II",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1002,
+    "SUM of FemaleVoters": 1002
+  },
+  {
+    "PS No": 280,
+    "Polling station name": "Aapa Nisar Fatima Girls High School Shah Jamal, Lahore, (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1413,
+    "Total Voters": 1413,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 281,
+    "Polling station name": "Aapa Nisar Fatima Girls High School Shah Jamal, Lahore, (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1240,
+    "SUM of FemaleVoters": 1240
+  },
+  {
+    "PS No": 282,
+    "Polling station name": "Aapa Nisar Fatima Girls High School Shah Jamal, Lahore, (Male)-II",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1827,
+    "Total Voters": 1827,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 283,
+    "Polling station name": "Aapa Nisar Fatima Girls High School Shah Jamal, Lahore, (Female)-II",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1813,
+    "SUM of FemaleVoters": 1813
+  },
+  {
+    "PS No": 284,
+    "Polling station name": "City District Government Boys Primary School, Fazalia Colony, Lahore (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 944,
+    "Total Voters": 1759,
+    "SUM of FemaleVoters": 815
+  },
+  {
+    "PS No": 285,
+    "Polling station name": "HQ School System 26, Shah Jamal Lahore (Combined)-II",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1036,
+    "Total Voters": 1863,
+    "SUM of FemaleVoters": 827
+  },
+  {
+    "PS No": 286,
+    "Polling station name": "CDGL Boys Primary School (MCL) Fazlia Colony, Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 2104,
+    "Total Voters": 2104,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 287,
+    "Polling station name": "Azad Chaiwala Institute of Digital Skills Ferozpur Road Lahore (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2110,
+    "SUM of FemaleVoters": 2110
+  },
+  {
+    "PS No": 288,
+    "Polling station name": "Azad Chaiwala Institute of Digital Skills Ferozpur Road Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 1397,
+    "Total Voters": 1397,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 289,
+    "Polling station name": "Azad Chaiwala Institute of Digital Skills Ferozpur Road Lahore (Female)-II",
+    "PP Number": "PP-170",
+    "Area": "Shadman",
+    "Charge Code": 25936,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1112,
+    "SUM of FemaleVoters": 1112
+  },
+  {
+    "PS No": 290,
+    "Polling station name": "University of Home Economics S Block Gulberg-II Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25906,
+    "SUM of MaleVoters": 2131,
+    "Total Voters": 2131,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 291,
+    "Polling station name": "University of Home Economics S Block Gulberg-II Lahore (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25906,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2029,
+    "SUM of FemaleVoters": 2029
+  },
+  {
+    "PS No": 292,
+    "Polling station name": "Government Najaf High School RC Cola Factory Gulberg (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25906,
+    "SUM of MaleVoters": 1101,
+    "Total Voters": 2185,
+    "SUM of FemaleVoters": 1084
+  },
+  {
+    "PS No": 293,
+    "Polling station name": "Government Girls High School,Ganga ICE FACTORY (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25906,
+    "SUM of MaleVoters": 2151,
+    "Total Voters": 2151,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 294,
+    "Polling station name": "Government Girls High School, Ganga ICE FACTORY (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25906,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1956,
+    "SUM of FemaleVoters": 1956
+  },
+  {
+    "PS No": 295,
+    "Polling station name": "Government Boys High School, F Block, Gulberg, Lahore (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2184,
+    "SUM of FemaleVoters": 2184
+  },
+  {
+    "PS No": 296,
+    "Polling station name": "Government Boys High School, F Block, Gulberg, Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 2220,
+    "Total Voters": 2220,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 297,
+    "Polling station name": "CDGL High School for Girls B- BLOCK GULBERG-II LAHORE (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1515,
+    "SUM of FemaleVoters": 1515
+  },
+  {
+    "PS No": 298,
+    "Polling station name": "CDGL High School for Girls B- BLOCK GULBERG-II LAHORE (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 1716,
+    "Total Voters": 1716,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 299,
+    "Polling station name": "Government Girls High School, F BLOCK Main Market GULBERG Lahore (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 862,
+    "Total Voters": 1714,
+    "SUM of FemaleVoters": 852
+  },
+  {
+    "PS No": 300,
+    "Polling station name": "Government Girls High School, F BLOCK Main Market GULBERG Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 1770,
+    "Total Voters": 1770,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 301,
+    "Polling station name": "Government Girls High School, F BLOCK Main Market GULBERG Lahore (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1549,
+    "SUM of FemaleVoters": 1549
+  },
+  {
+    "PS No": 302,
+    "Polling station name": "Government Girls High School, F BLOCK Main Market GULBERG Lahore (Male)-II",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 1297,
+    "Total Voters": 1297,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 303,
+    "Polling station name": "Government Girls High School, F BLOCK Main Market GULBERG Lahore (Female)-II",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1108,
+    "SUM of FemaleVoters": 1108
+  },
+  {
+    "PS No": 304,
+    "Polling station name": "Government F.C.C Girls Primary School (English Medium) Shibli Road near Police Station, Ghalib Market, Gulberg, Lahore. (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 917,
+    "Total Voters": 1838,
+    "SUM of FemaleVoters": 921
+  },
+  {
+    "PS No": 305,
+    "Polling station name": "CDGL High School for Girls B- BLOCK GULBERG-II LAHORE (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 645,
+    "Total Voters": 1338,
+    "SUM of FemaleVoters": 693
+  },
+  {
+    "PS No": 306,
+    "Polling station name": "CDGL High School for Girls B- BLOCK GULBERG-II LAHORE (Combined)-II",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25905,
+    "SUM of MaleVoters": 701,
+    "Total Voters": 1400,
+    "SUM of FemaleVoters": 699
+  },
+  {
+    "PS No": 307,
+    "Polling station name": "Government Jinnah Degree College for Women Mozang Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 2046,
+    "Total Voters": 2046,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 308,
+    "Polling station name": "Government Jinnah Degree College for Women Mozang Lahore (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1876,
+    "SUM of FemaleVoters": 1876
+  },
+  {
+    "PS No": 309,
+    "Polling station name": "Examination Hall Board of Indermedate and Secondary Education Lawrence Road Lahore (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 1042,
+    "Total Voters": 2047,
+    "SUM of FemaleVoters": 1005
+  },
+  {
+    "PS No": 310,
+    "Polling station name": "Examination Hall Board of Indermedate and Secondary Education Lawrence Road Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 1998,
+    "Total Voters": 1998,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 311,
+    "Polling station name": "Examination Hall Board of Indermedate and Secondary Education Lawrence Road Lahore (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1778,
+    "SUM of FemaleVoters": 1778
+  },
+  {
+    "PS No": 312,
+    "Polling station name": "Examination Hall Board of Indermedate and Secondary Education Lawrence Road Lahore (Combined)-II",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 903,
+    "Total Voters": 1810,
+    "SUM of FemaleVoters": 907
+  },
+  {
+    "PS No": 313,
+    "Polling station name": "Lahore College for Women University Shadman, Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 1422,
+    "Total Voters": 1422,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 314,
+    "Polling station name": "Lahore College for Women University Shadman, Lahore (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1325,
+    "SUM of FemaleVoters": 1325
+  },
+  {
+    "PS No": 315,
+    "Polling station name": "Lahore College for Women University Shadman, Lahore (Male)-II",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 1079,
+    "Total Voters": 1079,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 316,
+    "Polling station name": "Lahore College for Women University Shadman, Lahore (Female)-II",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1013,
+    "SUM of FemaleVoters": 1013
+  },
+  {
+    "PS No": 317,
+    "Polling station name": "Government Maqbol Aam High School GOR-I Lahore. (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 1609,
+    "Total Voters": 1609,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 318,
+    "Polling station name": "Government Maqbol Aam High School GOR-I Lahore. (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1626,
+    "SUM of FemaleVoters": 1626
+  },
+  {
+    "PS No": 319,
+    "Polling station name": "Government Maqbol Aam High School GOR-I Lahore. (Male)-II",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 1214,
+    "Total Voters": 1214,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 320,
+    "Polling station name": "Government Maqbol Aam High School GOR-I Lahore. (Female)-II",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1097,
+    "SUM of FemaleVoters": 1097
+  },
+  {
+    "PS No": 321,
+    "Polling station name": "Govt. Darul Nswan Girls High School, 65-A jail road Lahore (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Lawrence Road / Bagh-e-Jinnah",
+    "Charge Code": 18568,
+    "SUM of MaleVoters": 724,
+    "Total Voters": 1388,
+    "SUM of FemaleVoters": 664
+  },
+  {
+    "PS No": 322,
+    "Polling station name": "GHS Lahore Cantt near QURBAN LINE (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gymkhana Club",
+    "Charge Code": 18609,
+    "SUM of MaleVoters": 2072,
+    "Total Voters": 2072,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 323,
+    "Polling station name": "GHS Lahore Cantt near QURBAN LINE (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gymkhana Club",
+    "Charge Code": 18609,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1863,
+    "SUM of FemaleVoters": 1863
+  },
+  {
+    "PS No": 324,
+    "Polling station name": "City District Government Boys High School, Basti Saiden Shah Colony Lahore (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Gymkhana Club",
+    "Charge Code": 18609,
+    "SUM of MaleVoters": 857,
+    "Total Voters": 1677,
+    "SUM of FemaleVoters": 820
+  },
+  {
+    "PS No": 325,
+    "Polling station name": "Govt. Secondary school of Special for Deaf and Deffective Hearing School for Boys(GunjMahal)40 T Gulberg-II Lahore (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 2050,
+    "Total Voters": 2050,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 326,
+    "Polling station name": "Govt. Secondary school of Special for Deaf and Deffective Hearing School for Boys(GunjMahal)40 T Gulberg-II Lahore (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2085,
+    "SUM of FemaleVoters": 2085
+  },
+  {
+    "PS No": 327,
+    "Polling station name": "Govt. Secondary school of Special for Deaf and Deffective Hearing School for Boys(GunjMahal)40 T Gulberg-II Lahore (COMBINED)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 586,
+    "Total Voters": 1159,
+    "SUM of FemaleVoters": 573
+  },
+  {
+    "PS No": 328,
+    "Polling station name": "GOVT, PRIMARY SCHOOL GURUMANGAT (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1890,
+    "SUM of FemaleVoters": 1890
+  },
+  {
+    "PS No": 329,
+    "Polling station name": "GOVT, PRIMARY SCHOOL GURUMANGAT (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 2089,
+    "Total Voters": 2089,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 330,
+    "Polling station name": "Office of the Auditor General (Pakistan Bureaue of Statistics ) Gurumangat Road Lahore (COMBINED)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 799,
+    "Total Voters": 1639,
+    "SUM of FemaleVoters": 840
+  },
+  {
+    "PS No": 331,
+    "Polling station name": "Office of the Auditor General (Pakistan Bureaue of Statistics ) Gurumangat Road Lahore (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 1530,
+    "Total Voters": 1530,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 332,
+    "Polling station name": "Office of the Auditor General (Pakistan Bureaue of Statistics ) Gurumangat Road Lahore (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1466,
+    "SUM of FemaleVoters": 1466
+  },
+  {
+    "PS No": 333,
+    "Polling station name": "Government Primary School, Ittehad Colony behind Nisar Art Press, Lahore (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 909,
+    "Total Voters": 1750,
+    "SUM of FemaleVoters": 841
+  },
+  {
+    "PS No": 334,
+    "Polling station name": "Govt. Girls Central Model Higher Secondary School Liberty Market Gulberg, Lahore (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 1569,
+    "Total Voters": 1569,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 335,
+    "Polling station name": "Govt. Girls Central Model Higher Secondary School Liberty Market Gulberg, Lahore (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18610,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1492,
+    "SUM of FemaleVoters": 1492
+  },
+  {
+    "PS No": 336,
+    "Polling station name": "GOVT Primary School Nabi Pura Gulberg 2 Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 1063,
+    "Total Voters": 1063,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 337,
+    "Polling station name": "GOVT Primary School Nabi Pura Gulberg 2 Lahore (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1102,
+    "SUM of FemaleVoters": 1102
+  },
+  {
+    "PS No": 338,
+    "Polling station name": "Iqra Eductaion Center Gulberg -3 Lahore (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18611,
+    "SUM of MaleVoters": 1180,
+    "Total Voters": 1180,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 339,
+    "Polling station name": "Iqra Eductaion Center Gulberg -3 Lahore (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18611,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1125,
+    "SUM of FemaleVoters": 1125
+  },
+  {
+    "PS No": 340,
+    "Polling station name": "CDGL Girls High School QABOOTAR PURA (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18611,
+    "SUM of MaleVoters": 1532,
+    "Total Voters": 1532,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 341,
+    "Polling station name": "CDGL Girls High School QABOOTAR PURA (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18611,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1399,
+    "SUM of FemaleVoters": 1399
+  },
+  {
+    "PS No": 342,
+    "Polling station name": "GOVT Women COLLEGE Liberty Gulberg FOR GIRLS (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18611,
+    "SUM of MaleVoters": 1411,
+    "Total Voters": 1411,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 343,
+    "Polling station name": "GOVT Women COLLEGE Liberty Gulberg FOR GIRLS (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 18611,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1402,
+    "SUM of FemaleVoters": 1402
+  },
+  {
+    "PS No": 344,
+    "Polling station name": "The Educators School (Quaid Campus) 11-K Gulberg-III Lahore (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 1889,
+    "Total Voters": 1889,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 345,
+    "Polling station name": "The Educators School (Quaid Campus) 11-K Gulberg-III Lahore (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1945,
+    "SUM of FemaleVoters": 1945
+  },
+  {
+    "PS No": 346,
+    "Polling station name": "BALOCH SCHOOL SYSTEM MAKKAH COLONY GULBERG-III, LAHORE (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 2070,
+    "Total Voters": 2070,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 347,
+    "Polling station name": "BALOCH SCHOOL SYSTEM MAKKAH COLONY GULBERG-III, LAHORE (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1778,
+    "SUM of FemaleVoters": 1778
+  },
+  {
+    "PS No": 348,
+    "Polling station name": "THE HOUSE OF STUDY SCHOOL, MAKKAH COLONY, GALLI NO. 5 GULBERG-III, LAHORE (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 1456,
+    "Total Voters": 1456,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 349,
+    "Polling station name": "THE HOUSE OF STUDY SCHOOL, MAKKAH COLONY, GALLI NO. 5 GULBERG-III, LAHORE (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1285,
+    "SUM of FemaleVoters": 1285
+  },
+  {
+    "PS No": 350,
+    "Polling station name": "FAMILY WELFARE MIDDLE SCHOOL BEHIND OFFICE UC-204 K-BLOCK, Gulberg (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 1381,
+    "Total Voters": 1381,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 351,
+    "Polling station name": "FAMILY WELFARE MIDDLE SCHOOL BEHIND OFFICE UC-204 K-BLOCK, Gulberg (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1272,
+    "SUM of FemaleVoters": 1272
+  },
+  {
+    "PS No": 352,
+    "Polling station name": "Rahbar Eductaional High School Gulberg-lll (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 1727,
+    "Total Voters": 1727,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 353,
+    "Polling station name": "Rahbar Eductaional High School Gulberg-lll (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2007,
+    "SUM of FemaleVoters": 2007
+  },
+  {
+    "PS No": 354,
+    "Polling station name": "HAJVARI UNIVERSITY 43-Industrial Area Macca colony GULBERG LAHORE (Male)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 1109,
+    "Total Voters": 1109,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 355,
+    "Polling station name": "HAJVARI UNIVERSITY 43-Industrial Area Macca colony GULBERG LAHORE (Female)-I",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1065,
+    "SUM of FemaleVoters": 1065
+  },
+  {
+    "PS No": 356,
+    "Polling station name": "HAJVARI UNIVERSITY 43-Industrial Area Macca colony GULBERG LAHORE (Male)-II",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 2147,
+    "Total Voters": 2147,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 357,
+    "Polling station name": "HAJVARI UNIVERSITY 43-Industrial Area Macca colony GULBERG LAHORE (Female)-II",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1903,
+    "SUM of FemaleVoters": 1903
+  },
+  {
+    "PS No": 358,
+    "Polling station name": "Saint Thomas High School Street 6 Makkah Colony (MALE)-III",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 1409,
+    "Total Voters": 1409,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 359,
+    "Polling station name": "Saint Thomas High School Street 6 Makkah Colony (FEMALE)-III",
+    "PP Number": "PP-170",
+    "Area": "Makkah Colony",
+    "Charge Code": 18612,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 958,
+    "SUM of FemaleVoters": 958
+  },
+  {
+    "PS No": 360,
+    "Polling station name": "University of Home Economics S Block Gulberg-II Lahore (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25907,
+    "SUM of MaleVoters": 716,
+    "Total Voters": 1401,
+    "SUM of FemaleVoters": 685
+  },
+  {
+    "PS No": 361,
+    "Polling station name": "Government Najaf High School RC Cola Factory Gulberg Lahore (Combined)-II",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25907,
+    "SUM of MaleVoters": 558,
+    "Total Voters": 1182,
+    "SUM of FemaleVoters": 624
+  },
+  {
+    "PS No": 362,
+    "Polling station name": "MUMTAZ MEMORIAL GHSS 26-J GULBERG-III (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 1139,
+    "Total Voters": 2006,
+    "SUM of FemaleVoters": 867
+  },
+  {
+    "PS No": 363,
+    "Polling station name": "MUMTAZ MEMORIAL GHSS 26-J GULBERG-III (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 1279,
+    "Total Voters": 1279,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 364,
+    "Polling station name": "MUMTAZ MEMORIAL GHSS 26-J GULBERG-III (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1292,
+    "SUM of FemaleVoters": 1292
+  },
+  {
+    "PS No": 365,
+    "Polling station name": "Amin Maktab School 54 J-Block, Gulberg-III, LAHORE (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 2296,
+    "Total Voters": 2296,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 366,
+    "Polling station name": "Amin Maktab School 54 J-Block, Gulberg-III, LAHORE (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2316,
+    "SUM of FemaleVoters": 2316
+  },
+  {
+    "PS No": 367,
+    "Polling station name": "Government Girls High School, B-Block, Gulberg-II Lahore (Combined)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 863,
+    "Total Voters": 1800,
+    "SUM of FemaleVoters": 937
+  },
+  {
+    "PS No": 368,
+    "Polling station name": "FC COLLEAGE, Zahoor Elahi Rd, Gulberg III LAHORE (MALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 1823,
+    "Total Voters": 1823,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 369,
+    "Polling station name": "FC COLLEAGE, Zahoor Elahi Rd, Gulberg III, LAHORE (FEMALE)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1644,
+    "SUM of FemaleVoters": 1644
+  },
+  {
+    "PS No": 370,
+    "Polling station name": "FC COLLEAGE, Zahoor Elahi Rd, Gulberg III LAHORE (MALE)-II",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 987,
+    "Total Voters": 987,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 371,
+    "Polling station name": "FC COLLEAGE, Zahoor Elahi Rd, Gulberg III, LAHORE (FEMALE)-II",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 984,
+    "SUM of FemaleVoters": 984
+  },
+  {
+    "PS No": 372,
+    "Polling station name": "FC COLLEAGE, Zahoor Elahi Rd, Gulberg III, LAHORE (COMBINED)-I",
+    "PP Number": "PP-170",
+    "Area": "Gulberg",
+    "Charge Code": 25908,
+    "SUM of MaleVoters": 826,
+    "Total Voters": 1543,
+    "SUM of FemaleVoters": 717
+  },
+  {
+    "PS No": 373,
+    "Polling station name": "Government Girls Elementary School Chaudhary Colony Kachi Abadi Icchra Lahore (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25935,
+    "SUM of MaleVoters": 2237,
+    "Total Voters": 2237,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 374,
+    "Polling station name": "Government Girls Elementary School Chaudhary Colony Kachi Abadi Icchra Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25935,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2158,
+    "SUM of FemaleVoters": 2158
+  },
+  {
+    "PS No": 375,
+    "Polling station name": "British School 6-Peer Ghazi Road, Icchra, Lahore (COMBINED)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25935,
+    "SUM of MaleVoters": 562,
+    "Total Voters": 953,
+    "SUM of FemaleVoters": 391
+  },
+  {
+    "PS No": 376,
+    "Polling station name": "Ideal Grammer School 65-Peer Ghazi Road, Lahore (COMBINED)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25935,
+    "SUM of MaleVoters": 429,
+    "Total Voters": 842,
+    "SUM of FemaleVoters": 413
+  },
+  {
+    "PS No": 377,
+    "Polling station name": "samanabad town office (Combined)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25935,
+    "SUM of MaleVoters": 857,
+    "Total Voters": 1648,
+    "SUM of FemaleVoters": 791
+  },
+  {
+    "PS No": 378,
+    "Polling station name": "samanabad town office (Combined)-II",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25935,
+    "SUM of MaleVoters": 625,
+    "Total Voters": 1117,
+    "SUM of FemaleVoters": 492
+  },
+  {
+    "PS No": 379,
+    "Polling station name": "Government Girls Elementary School Chaudhary Colony Kachi Abadi Icchra Lahore (Male)-II",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25935,
+    "SUM of MaleVoters": 1457,
+    "Total Voters": 1457,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 380,
+    "Polling station name": "Government Girls Elementary School Chaudhary Colony Kachi Abadi Icchra Lahore (Female)-II",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25935,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1059,
+    "SUM of FemaleVoters": 1059
+  },
+  {
+    "PS No": 381,
+    "Polling station name": "PICS Lyceum, Lahore (COMBINED)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25935,
+    "SUM of MaleVoters": 735,
+    "Total Voters": 1490,
+    "SUM of FemaleVoters": 755
+  },
+  {
+    "PS No": 382,
+    "Polling station name": "Pakistan Grammar School, 623.N Samanabad Lahore (COMBINED)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 647,
+    "Total Voters": 1293,
+    "SUM of FemaleVoters": 646
+  },
+  {
+    "PS No": 383,
+    "Polling station name": "Allied School, Daffodils Campus, 171-N Ghazali Road Samanabad, Lahore (MALE)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 887,
+    "Total Voters": 887,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 384,
+    "Polling station name": "Allied School, Daffodils Campus, 950-N Goal Chakar No.03 Choudhary Colony Samanabad, Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 895,
+    "SUM of FemaleVoters": 895
+  },
+  {
+    "PS No": 385,
+    "Polling station name": "Scholar Islamic Public School Haji Colony Near National Bank Nadeem Shaheed Road Samanabad, Lahore (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 1286,
+    "Total Voters": 1286,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 386,
+    "Polling station name": "Scholar Islamic Public School Haji Colony Near National Bank Nadeem Shaheed Road Samanabad, Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1160,
+    "SUM of FemaleVoters": 1160
+  },
+  {
+    "PS No": 387,
+    "Polling station name": "Government Sulemania Model Primary School Samanabad, Lahore (MALE)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 1488,
+    "Total Voters": 1488,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 388,
+    "Polling station name": "Government Sulemania Model Primary School Samanabad, Lahore (FEMALE)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1280,
+    "SUM of FemaleVoters": 1280
+  },
+  {
+    "PS No": 389,
+    "Polling station name": "Native School Ahmad Munir Shaheed Road Ichra Lahore (Combined)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 389,
+    "Total Voters": 745,
+    "SUM of FemaleVoters": 356
+  },
+  {
+    "PS No": 390,
+    "Polling station name": "SMS Model School Gunj Buksh Ichar School Lahore (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 1178,
+    "Total Voters": 1178,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 391,
+    "Polling station name": "SMS Model School Gunj Buksh Ichar School Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 997,
+    "SUM of FemaleVoters": 997
+  },
+  {
+    "PS No": 392,
+    "Polling station name": "Ahsan Foundation Model School Gunj Buksh Ichar Lahore (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 1372,
+    "Total Voters": 1372,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 393,
+    "Polling station name": "Ahsan Foundation Model School Gunj Buksh Ichar Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1209,
+    "SUM of FemaleVoters": 1209
+  },
+  {
+    "PS No": 394,
+    "Polling station name": "Al-Munawar Public High School Shah Kamal Road Lahore (COMBINED)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 1023,
+    "Total Voters": 1769,
+    "SUM of FemaleVoters": 746
+  },
+  {
+    "PS No": 395,
+    "Polling station name": "Al Azhar Academy Lahore (COMBINED)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25937,
+    "SUM of MaleVoters": 966,
+    "Total Voters": 1785,
+    "SUM of FemaleVoters": 819
+  },
+  {
+    "PS No": 396,
+    "Polling station name": "City District Govt. Boys High School Takia Lehri Shah, Lahore. (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 1967,
+    "Total Voters": 1967,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 397,
+    "Polling station name": "City District Govt. Boys High School Takia Lehri Shah, Lahore. (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1759,
+    "SUM of FemaleVoters": 1759
+  },
+  {
+    "PS No": 398,
+    "Polling station name": "City District Govt. Boys High School Takia Lehri Shah, Lahore. (Male)-II",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 1962,
+    "Total Voters": 1962,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 399,
+    "Polling station name": "City District Govt. Boys High School Takia Lehri Shah, Lahore. (Female)-II",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1743,
+    "SUM of FemaleVoters": 1743
+  },
+  {
+    "PS No": 400,
+    "Polling station name": "Samanabad Girls College Samanabad (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 2050,
+    "Total Voters": 2050,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 401,
+    "Polling station name": "Samanabad Girls College Samanabad (Male)-II",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 2091,
+    "Total Voters": 2091,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 402,
+    "Polling station name": "Samanabad Girls College Samanabad (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2200,
+    "SUM of FemaleVoters": 2200
+  },
+  {
+    "PS No": 403,
+    "Polling station name": "Samanabad Girls College Samanabad (Female)-II",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2233,
+    "SUM of FemaleVoters": 2233
+  },
+  {
+    "PS No": 404,
+    "Polling station name": "Government Post Graduate College for women Samanabad Lahore (Combined)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 542,
+    "Total Voters": 962,
+    "SUM of FemaleVoters": 420
+  },
+  {
+    "PS No": 405,
+    "Polling station name": "Government Post Graduate College for women Samanabad Lahore (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 2141,
+    "Total Voters": 2141,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 406,
+    "Polling station name": "Government Post Graduate College for women Samanabad Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1940,
+    "SUM of FemaleVoters": 1940
+  },
+  {
+    "PS No": 407,
+    "Polling station name": "Government Sulemania Public High School, Samanabad, Lahore (Combined)-II",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 747,
+    "Total Voters": 1390,
+    "SUM of FemaleVoters": 643
+  },
+  {
+    "PS No": 408,
+    "Polling station name": "Government Post Graduate College for women Samanabad Lahore (Combined)-II",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 625,
+    "Total Voters": 1200,
+    "SUM of FemaleVoters": 575
+  },
+  {
+    "PS No": 409,
+    "Polling station name": "Government Sulemania Public High School, Samanabad, Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1209,
+    "SUM of FemaleVoters": 1209
+  },
+  {
+    "PS No": 410,
+    "Polling station name": "Government Sulemania Public High School, Samanabad, Lahore (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 1259,
+    "Total Voters": 1259,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 411,
+    "Polling station name": "Government Sulemania Public High School, Samanabad, Lahore (Combined)-III",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25934,
+    "SUM of MaleVoters": 502,
+    "Total Voters": 989,
+    "SUM of FemaleVoters": 487
+  },
+  {
+    "PS No": 412,
+    "Polling station name": "Government Sulemania Public High School, Samanabad, Lahore (Combined)-IV",
+    "PP Number": "PP-171",
+    "Area": "Samanabad",
+    "Charge Code": 25935,
+    "SUM of MaleVoters": 642,
+    "Total Voters": 1218,
+    "SUM of FemaleVoters": 576
+  },
+  {
+    "PS No": 413,
+    "Polling station name": "Lahore Cambridge School Zalidar Road Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2274,
+    "SUM of FemaleVoters": 2274
+  },
+  {
+    "PS No": 414,
+    "Polling station name": "Lahore Cambridge School Zalidar Road Lahore (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 2230,
+    "Total Voters": 2230,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 415,
+    "Polling station name": "Lahore Cambridge School Zalidar Road Lahore (Male)-II",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 2413,
+    "Total Voters": 2413,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 416,
+    "Polling station name": "Lahore Cambridge School Zalidar Road Lahore (Female)-II",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 2001,
+    "SUM of FemaleVoters": 2001
+  },
+  {
+    "PS No": 417,
+    "Polling station name": "Pak Pioneer School Lahore (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 2112,
+    "Total Voters": 2112,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 418,
+    "Polling station name": "Pak Pioneer School Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1747,
+    "SUM of FemaleVoters": 1747
+  },
+  {
+    "PS No": 419,
+    "Polling station name": "Pak Pioneer School Lahore (Male)-II",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 1325,
+    "Total Voters": 1325,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 420,
+    "Polling station name": "Pak Pioneer School Lahore (Female)-II",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1333,
+    "SUM of FemaleVoters": 1333
+  },
+  {
+    "PS No": 421,
+    "Polling station name": "Standar Model School Pir Ghazi Road Ichhra Lahore (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 1237,
+    "Total Voters": 1237,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 422,
+    "Polling station name": "Standar Model School Pir Ghazi Road Ichhra Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1165,
+    "SUM of FemaleVoters": 1165
+  },
+  {
+    "PS No": 423,
+    "Polling station name": "Kinz Ul Iman Beacon School Rana Street Aziz Park Muhammad Pura Ichra, Lahore (MALE)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 1760,
+    "Total Voters": 1760,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 424,
+    "Polling station name": "Kinz Ul Iman Beacon School Rana Street Aziz Park Muhammad Pura Ichra, Lahore (FEMALE)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1658,
+    "SUM of FemaleVoters": 1658
+  },
+  {
+    "PS No": 425,
+    "Polling station name": "Kinz Ul Iman Beacon School Rana Street Aziz Park Muhammad Pura Ichra, Lahore (FEMALE)-II",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 960,
+    "SUM of FemaleVoters": 960
+  },
+  {
+    "PS No": 426,
+    "Polling station name": "Kinz Ul Iman Beacon School Rana Street Aziz Park Muhammad Pura Ichra, Lahore (MALE)-II",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 1006,
+    "Total Voters": 1006,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 427,
+    "Polling station name": "Government Shahab-ud-Din Girls High School, Shah Kamal Road, Combo Colony, Lahore. (MALE)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 1486,
+    "Total Voters": 1486,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 428,
+    "Polling station name": "Government Shahab-ud-Din Girls High School, Shah Kamal Road, Combo Colony, Lahore. (FEMALE)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1271,
+    "SUM of FemaleVoters": 1271
+  },
+  {
+    "PS No": 429,
+    "Polling station name": "Native School Ahmad Munir Shaheed Road Ichra Lahore (Combined)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 1068,
+    "Total Voters": 2125,
+    "SUM of FemaleVoters": 1057
+  },
+  {
+    "PS No": 430,
+    "Polling station name": "Government Shahbad-ud-Din Girls High School, Shah Kamal Road, Rawan Lahore (Male)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 1714,
+    "Total Voters": 1714,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 431,
+    "Polling station name": "Government Shahbad-ud-Din Girls High School, Shah Kamal Road, Rawan Lahore (Female)-I",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1530,
+    "SUM of FemaleVoters": 1530
+  },
+  {
+    "PS No": 432,
+    "Polling station name": "Government Shahab-ud-Din Girls High School, Shah Kamal Road, Combo Colony, Lahore. (MALE)-II",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 1557,
+    "Total Voters": 1557,
+    "SUM of FemaleVoters": 0
+  },
+  {
+    "PS No": 433,
+    "Polling station name": "Government Shahab-ud-Din Girls High School, Shah Kamal Road, Combo Colony, Lahore. (FEMALE)-II",
+    "PP Number": "PP-171",
+    "Area": "Ichra",
+    "Charge Code": 25932,
+    "SUM of MaleVoters": 0,
+    "Total Voters": 1416,
+    "SUM of FemaleVoters": 1416
+  }
+]

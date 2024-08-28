@@ -6,6 +6,7 @@ import { Rating } from 'primereact/rating';
 import { Tag } from 'primereact/tag';
 import { ProductService } from './service/ProductService';
 import { Image } from 'primereact/image';
+import { Chart } from 'primereact/chart';
 
 export default function TemplateDemo() {
     const [products, setProducts] = useState([]);
@@ -18,9 +19,46 @@ export default function TemplateDemo() {
         return value.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
     };
 
-    const imageBodyTemplate = (field) => (product) => {
+    const imageBodyTemplate = (data) => {
+        const chartData = {
+            labels: ['PA Turnout', 'NA Turnout'],
+            datasets: [
+                {
+                    label: 'Turnout',
+                    data: [data.paTurnout, data['Total Voters']],
+                    backgroundColor: [
+                        'rgba(255, 159, 64, 0.5)',
+                        'rgba(75, 192, 192, 0.5)'
+                    ],
+                    borderColor: [
+                        'rgb(255, 159, 64)',
+                        'rgb(75, 192, 192)'
+                    ],
+                    borderWidth: 1
+                }
+            ]
+        };
+        const options = {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            },
+            plugins : {
+                legend : {
+                    display : false
+                }
+            },
+            animation : false,
+            borderRadius : 5,
+            indexAxis : 'y'
+        };
         return (
-            <Image src={`/data-table/images/${product[field]}`} alt="Image" preview width="250px" className="shadow-2 border-round" />
+            <div className='overflow-hidden w-130 p-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700'>
+                <Chart type="bar"
+                    data={chartData}
+                    options={options} />
+            </div>
         );
     };
 
@@ -61,14 +99,13 @@ export default function TemplateDemo() {
 
     return (
         <div className="card">
-            <DataTable value={products} tableStyle={{ minWidth: '60rem' }}>
+            <DataTable stripedRows paginator rows={10} rowsPerPageOptions={[5, 10, 25, 50]} value={products} tableStyle={{ minWidth: '60rem' }}>
                 <Column field="constituency" header="Constituency"></Column>
-                <Column field="ps" header="Polling Station"></Column>
-                <Column header="Candidate Form 45" body={imageBodyTemplate('ps_form45')}></Column>
-                <Column header="ECP Form 45" body={imageBodyTemplate('ecp_form45')}></Column>
-                <Column field="anamoly" header="Errors/Inconsistency"></Column>
+                <Column field="PS No" sortable header="Polling Station"></Column>
+                <Column field="Total Voters" sortable header="National Assembly Turnout"></Column>
+                <Column field="paTurnout" sortable header="Provincial Assembly Turnout"></Column>
+                <Column header="Candidate Form 45" style={{width : '4s0%'}} body={imageBodyTemplate}></Column>
             </DataTable>
         </div>
     );
 }
-        

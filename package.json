@@ -19,6 +19,7 @@
   "dependencies": {
     "@types/react": "^18.2.38",
     "@vitejs/plugin-react": "latest",
+    "chart.js": "^4.4.4",
     "primeflex": "^3.3.1",
     "primeicons": "^7.0.0",
     "primereact": "latest",
@@ -29,6 +30,9 @@
     "vite": "latest"
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10"
   }
 }
