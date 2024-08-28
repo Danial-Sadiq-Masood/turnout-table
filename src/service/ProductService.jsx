@@ -1,4 +1,4 @@
-import turnoutData from "./128Turnout.json";
+import turnoutData from "./128withWinner.json";
 
 const modifiedTurnoutData = turnoutData.map(d => ({
     constituency : 128,

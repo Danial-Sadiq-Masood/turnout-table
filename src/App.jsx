@@ -39,6 +39,7 @@ export default function TemplateDemo() {
             ]
         };
         const options = {
+            barThickness : "30",
             scales: {
                 y: {
                     beginAtZero: true
@@ -54,10 +55,10 @@ export default function TemplateDemo() {
             indexAxis : 'y'
         };
         return (
-            <div className='overflow-hidden w-130 p-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700'>
+            <div id={data['PS No']} className='overflow-hidden w-130 p-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700'>
                 <Chart type="bar"
                     data={chartData}
-                    options={options} />
+                    options={options} className='h-[140px]'/>
             </div>
         );
     };
@@ -102,9 +103,10 @@ export default function TemplateDemo() {
             <DataTable stripedRows paginator rows={10} rowsPerPageOptions={[5, 10, 25, 50]} value={products} tableStyle={{ minWidth: '60rem' }}>
                 <Column field="constituency" header="Constituency"></Column>
                 <Column field="PS No" sortable header="Polling Station"></Column>
+                <Column field="Who Won" header="Winner"></Column>
                 <Column field="Total Voters" sortable header="National Assembly Turnout"></Column>
                 <Column field="paTurnout" sortable header="Provincial Assembly Turnout"></Column>
-                <Column header="Candidate Form 45" style={{width : '4s0%'}} body={imageBodyTemplate}></Column>
+                <Column header="Candidate Form 45" style={{width : '20%'}} body={imageBodyTemplate}></Column>
             </DataTable>
         </div>
     );
