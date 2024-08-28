@@ -106,7 +106,7 @@ export default function TemplateDemo() {
                 <Column field="Who Won" header="Winner"></Column>
                 <Column field="Total Voters" sortable header="National Assembly Turnout"></Column>
                 <Column field="paTurnout" sortable header="Provincial Assembly Turnout"></Column>
-                <Column header="Candidate Form 45" style={{width : '20%'}} body={imageBodyTemplate}></Column>
+                <Column header="Comparison Chart" style={{width : '20%'}} body={imageBodyTemplate}></Column>
             </DataTable>
         </div>
     );
